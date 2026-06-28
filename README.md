@@ -6,3 +6,6 @@
 V2+ *(version 2 and more)*
 ## The data acquisition method 
 **USB SERIAL**
+
+## changes in 1.7: 
+* Now connecting type is USB for more memory and update BOT
